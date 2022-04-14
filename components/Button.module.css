@@ -1,0 +1,16 @@
+
+.primary {
+    color: white;
+    background-color: rgb(59, 96, 231);
+}
+
+.danger {
+    color: white;
+    background-color: rgb(204, 50, 50);
+}
+
+.disabled {
+    color: white;
+    opacity: 0.5;
+    pointer-events: none;
+}
